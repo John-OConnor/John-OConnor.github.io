@@ -1,0 +1,8 @@
+html{
+    background-image:url(back2.jpg);
+    background-attachment:fixed;
+    height:100%;
+    cursor:crosshair;
+    background-repeat:no-repeat;
+    background-size:cover;
+}

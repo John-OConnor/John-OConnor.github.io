@@ -1,0 +1,22 @@
+a{
+   color:red;
+}
+p{
+    text-indent: 50px;
+    text-transform: Uppercase;
+    text-shadow: 2px 2px red;
+    color:white;
+}
+h1{
+    color:white;
+    text-shadow: 2px 2px red;
+}
+
+body, html{
+    height: 100%;
+    background-image: url(back2.jpg);
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
